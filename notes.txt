@@ -1,5 +1,3 @@
 Originial Message
 
-Adding another messgae by me 
-Adding another message by Friend
-both combined and solved merge conflicts
+edited and will try for git pull --rebase
