@@ -1,3 +1,4 @@
 Originial Message
 
 edited and will try for git pull --rebase
+after pull
