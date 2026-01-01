@@ -1,5 +1,3 @@
 Originial Message
 
-edited and will try for git pull --rebase
-
-adding comment after pull
+Final Message after pull rebase
